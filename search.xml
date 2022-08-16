@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>常见软件官网</title>
+    <title>114514</title>
     <url>/posts/dfda/</url>
-    <content><![CDATA[<h1 id="常见软件官网"><a href="#常见软件官网" class="headerlink" title="常见软件官网"></a>常见软件官网</h1><p>日常生活中，我们会用到很多软件，下面是一些常用软件的安装链接。</p>
-<span id="more"></span>
-
-<p>点击下方软件名称自动跳转官网。</p>
-<p><a href="https://im.qq.com/">QQ</a><br><a href="https://weixin.qq.com/">微信</a><br><a href="https://wps.cn/">WPS</a><br><a href="https://potplayer.daum.net/">Potplayer</a></p>
-]]></content>
-      <tags>
-        <tag>工具</tag>
-      </tags>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="2057648b4618e2bab7e1220398fe9e0ccb6516e96f32762e3ce56d315a222e46">8c83c1fd70b2001f095a68c8e758fb29a64c839951abd85de7d8dc7c785db45442cc09ac3d5af73bfac9753a38f086d9d78ce8f08fb90fb236fc4d81b9a32df542428cc585c7e1b63190bab1459791878a3d61f0a0f009a6f5c15166fb6035b3f92b4c9d9c2e4c755a50334c29f94a76</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
   </entry>
 </search>
